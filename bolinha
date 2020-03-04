@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Alek</title>
+        <style>
+            h2{
+            background: blue ;
+            }
+            h1{
+            color: red;
+            }
+            li{
+            color: green;
+            }
+    </head>
+    <body>
+        <h1>KKKKKKKKK eae men</h1>
+        <h2>O baguio é doido memo</h2>
+        <p>e trollagi Alek</p>
+        <ul>
+          <li>Hardicori mermao</li>
+          <li>Marreta</li>
+        </ul>
+    </body>
+</html>

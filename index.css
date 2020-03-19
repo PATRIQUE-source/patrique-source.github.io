@@ -1,0 +1,81 @@
+﻿body {
+    background-color: #EBEFF2;
+    font-family: Arial, sans-serif;
+}
+#bio {
+    background-color: #76919C;
+    position: relative;
+    top: 260px;
+}
+#posts {
+    background-color: #253238;
+    border: solid 5px #AFBEC5;
+    position: relative;
+    top: 260px;
+}
+h1{
+    background-color: #AFBEC5;
+}
+.white{
+    color: white;
+}
+#banner {
+    width: 1240px;
+    height: 240px;
+    position: absolute;
+    z-index: 1;
+    border: solid 5px #253238;
+}
+#perf {
+    height: 200px;
+    position: absolute;
+    left: 30px;
+    top: 35px;
+    z-index: 2;
+    border: solid 5px #253238;
+}
+#config-icon {
+    width: 30px;
+    position: absolute;
+    top: 30px;
+    left: 1220px;
+    z-index: 6;
+}
+#edit-icon {
+    width: 30px;
+    position: absolute;
+    top: 285px;
+    left: 1220px;
+    z-index: 7;
+}
+#main-name{
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    left: 250px;
+    z-index: 3;
+}
+#post-info{
+    font-size: 30px;
+    position: absolute;
+    left:600px;
+    top: 50px;
+    z-index: 4;
+}
+#segd-info {
+    font-size: 30px;
+    position: absolute;
+    left: 750px;
+    top: 50px;
+    z-index: 5;
+}
+#segn-info {
+    font-size: 30px;
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+    z-index: 6;
+}
+.info{
+    font-weight: bold;
+}

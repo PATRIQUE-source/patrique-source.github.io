@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #EBEFF2;
+}
+#user-bar {
+    background-color: #AFBEC5;
+    border: solid 5px #253238;
+}
+#config {
+    background-color: #76919C;
+}
+#posts {
+    background-color: #253238;
+    border: solid 5px #AFBEC5;
+}
+h1{
+    background-color: #AFBEC5;
+}
+.white{
+    color: white;
+}
+

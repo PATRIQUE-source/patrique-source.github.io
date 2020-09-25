@@ -1,0 +1,88 @@
+﻿body {
+    background-color: #BEA4D2;
+}
+
+h1 {
+    background-color: #4A44F2;
+    font-size: 100px;
+    text-align: center;
+    border: solid 6px #3726A6;
+    color: white;
+}
+
+.bbb{
+    margin-left: 650px;
+    border: solid 6px #F20505;
+}
+
+div{
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+p {
+    font-size: 30px;
+    background-color: #F2E635;
+}
+
+h2 {
+    font-size: 50px;
+    background-color: #4A44F2;
+    border: solid 6px #000000;
+    text-align: center;
+    color: white;
+}
+.watch {
+    margin-left: 530px;
+    border: solid 6px #F20505;
+}
+
+.nav {
+    font-size: 20px;
+    background-color: white;
+    color: white;
+}
+#tw{
+    position:absolute;
+    top: 10px;
+    left: 30px;
+    z-index:2;
+}
+#kj {
+    z-index: 1;
+    border: solid 6px #3726A6;
+}
+#ig {
+    position: absolute;
+    top: 130px;
+    left: 30px;
+    z-index: 3;
+}
+
+#fb {
+    position: absolute;
+    top: 240px;
+    left: 30px;
+    z-index: 4;
+}
+
+#twit {
+    position: absolute;
+    top: 10px;
+    left: 110px;
+    z-index: 5;
+}
+
+#inst {
+    position: absolute;
+    top: 130px;
+    left: 110px;
+    z-index: 5;
+}
+
+#face{
+    position: absolute;
+    top: 240px;
+    left: 110px;
+    z-index: 5;
+}
